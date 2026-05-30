@@ -1,16 +1,14 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**PietrosBalbino/PietrosBalbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou doutorando em Estatística com interesse em Ciência de Dados, Aprendizado de Máquina e Modelagem Estatística aplicada a problemas reais.
 
-Here are some ideas to get you started:
+- 🎓 Doutorando em Estatística
+- 📊 Pesquisador em análise de dados climáticos, mercado agrícola e séries temporais
+- 🤖 Interesse em Machine Learning, GAMLSS, Inferência Estatística e Modelagem Preditiva
+- 💻 Experiência com Python, mas já trabalhei com: JavaScript (React), Node.js, C# e R
+- 📈 Desenvolvendo projetos que integram estatística, programação e tomada de decisão baseada em dados
+- 🌱 Sempre aprendendo novas técnicas de modelagem, otimização e inteligência artificial
+- 📚 Atualmente pesquisando aplicações de modelos estatísticos e de aprendizado de máquina em dados ambientais e econômicos
+- 📫 Contato: **pietrosbalbino@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
