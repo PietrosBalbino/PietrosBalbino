@@ -13,10 +13,12 @@ Sou doutorando em Estatística com interesse em Ciência de Dados, Aprendizado d
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=PietrosBalbino" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PietrosBalbino&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+## 📈 Activity Graph
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PietrosBalbino&theme=github-dark" />
 
 ---
