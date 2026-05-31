@@ -21,7 +21,7 @@ Sou doutorando em Estatística com interesse em Ciência de Dados, Aprendizado d
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PietrosBalbino&theme=github-dark" />
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 
 <div align="left">
